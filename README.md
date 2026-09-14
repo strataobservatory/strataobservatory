@@ -36,7 +36,8 @@ existed on that date. It is a measurement archive.
    ```
 
    Or keep us but slow us down with `Crawl-delay: <seconds>`.
-2. **Or write to us**: [open an issue in this repository](https://github.com/strataobservatory/strataobservatory/issues/new).
+2. **Or write to us** at **strata@luiscalvoruiz.es**, or
+   [open an issue in this repository](https://github.com/strataobservatory/strataobservatory/issues/new).
    Someone reads it; say which host and what you want.
 
 ## Who we are
@@ -71,7 +72,8 @@ cualquiera pueda comprobar después que existía en esa fecha. Es un archivo de 
 **Cómo pedirnos que bajemos o paremos.**
 1. Una regla en su `robots.txt` (`User-agent: strata-observatory` / `Disallow: /`).
    Vale desde la pasada siguiente y nadie de nuestro lado tiene que hacer nada.
-2. O escríbanos [abriendo una incidencia en este repositorio](https://github.com/strataobservatory/strataobservatory/issues/new),
+2. O escríbanos a **strata@luiscalvoruiz.es**, o
+   [abriendo una incidencia en este repositorio](https://github.com/strataobservatory/strataobservatory/issues/new),
    diciendo qué servidor y qué quiere. Alguien lo lee.
 
 **Quiénes somos.** Strata Observatory es un proyecto independiente.
