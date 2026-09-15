@@ -15,9 +15,9 @@ existed on that date. It is a measurement archive.
 ## How we read, and how often
 
 - **Once a day**, every morning at 07:00 Madrid time.
-- **We read the public listings** of MCP directories and registries. On domains we
-  already know, we also request a few standard paths where a server can publish its own
-  card (`/.well-known/mcp.json` and similar): one request per path and domain.
+- **We read the public listings** of MCP directories and registries. We also look, once
+  a day, at the own cards of the 34 servers we found on 2 September on their own domains
+  (`/.well-known/mcp.json` and similar): one request each. We do not probe other domains.
 - **Your `robots.txt` comes first.** We fetch it once per pass and per host, before
   anything else, and we honour `Disallow` and `Crawl-delay` for `strata-observatory` and
   for `*`. If your `robots.txt` cannot be read (anything other than a 404 or 410), we do
@@ -58,9 +58,10 @@ cualquiera pueda comprobar después que existía en esa fecha. Es un archivo de 
 
 **Cómo y cada cuánto.**
 - Una vez al día, cada mañana a las 07:00, hora de Madrid.
-- Leemos los listados públicos de los directorios y registros MCP. En dominios que ya
-  conocemos pedimos además unas pocas rutas estándar donde un servidor puede publicar su
-  propia ficha (`/.well-known/mcp.json` y parecidas): una petición por ruta y dominio.
+- Leemos los listados públicos de los directorios y registros MCP. Además miramos una vez
+  al día las fichas propias de los 34 servidores que hallamos el 2 de septiembre en su
+  propio dominio (`/.well-known/mcp.json` y parecidas): una petición cada una. No sondeamos
+  otros dominios.
 - Primero, su `robots.txt`. Lo leemos una vez por pasada y por servidor, antes que nada, y
   respetamos `Disallow` y `Crawl-delay` para `strata-observatory` y para `*`. Si no se
   puede leer (cualquier respuesta distinta de un 404 o un 410), ese día no leemos ese
