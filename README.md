@@ -44,6 +44,9 @@ existed on that date. It is a measurement archive.
 
 Strata Observatory is an independent project.
 
+**How we observe, in full:** the method, every closed version of it, at
+https://github.com/strataobservatory/strata-metodo
+
 ---
 
 ## En español
@@ -78,3 +81,6 @@ cualquiera pueda comprobar después que existía en esa fecha. Es un archivo de 
    diciendo qué servidor y qué quiere. Alguien lo lee.
 
 **Quiénes somos.** Strata Observatory es un proyecto independiente.
+
+**Cómo observamos, entero:** el método, con todas sus versiones cerradas, en
+https://github.com/strataobservatory/strata-metodo
