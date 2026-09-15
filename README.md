@@ -3,7 +3,7 @@
 *Español más abajo.*
 
 If you found this page through the `User-Agent` in your logs —
-`strata-observatory/1 (+https://github.com/strataobservatory)`— this is who we are and how
+`strata-observatory/1 (+https://github.com/strataobservatory; strata@luiscalvoruiz.es)`— this is who we are and how
 to make us slow down or stop.
 
 ## What we do
@@ -49,7 +49,7 @@ Strata Observatory is an independent project.
 ## En español
 
 Si ha llegado aquí por el `User-Agent` de sus registros
-—`strata-observatory/1 (+https://github.com/strataobservatory)`—, esto es quiénes somos y
+—`strata-observatory/1 (+https://github.com/strataobservatory; strata@luiscalvoruiz.es)`—, esto es quiénes somos y
 cómo pedirnos que bajemos el ritmo o paremos.
 
 **Qué hacemos.** Strata Observatory lleva un registro diario y fechado de qué servidores MCP
