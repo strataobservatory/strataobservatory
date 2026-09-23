@@ -36,6 +36,11 @@ existed on that date. It is a measurement archive.
    ```
 
    Or keep us but slow us down with `Crawl-delay: <seconds>`.
+
+   We recognise our name however you write it: upper or lower case, with a hyphen,
+   an underscore or a space, and with or without the `/1` version suffix.
+   `Strata-Observatory`, `strata_observatory` and `strata-observatory/1` all stop us.
+   A different name does not.
 2. **If you cannot edit your `robots.txt`, write to us** at **strata@luiscalvoruiz.es**, or
    [open an issue in this repository](https://github.com/strataobservatory/strataobservatory/issues/new),
    saying which host or address. **We act on it within five days of receiving it**, and
@@ -77,6 +82,11 @@ cualquiera pueda comprobar después que existía en esa fecha. Es un archivo de 
 **Cómo pedirnos que bajemos o paremos.**
 1. Una regla en su `robots.txt` (`User-agent: strata-observatory` / `Disallow: /`).
    Vale desde la pasada siguiente y nadie de nuestro lado tiene que hacer nada.
+
+   Reconocemos nuestro nombre lo escriba como lo escriba: en mayúsculas o minúsculas,
+   con guion, con guion bajo o con espacio, y con o sin el `/1` de versión.
+   `Strata-Observatory`, `strata_observatory` y `strata-observatory/1` nos paran igual.
+   Otro nombre distinto, no.
 2. Si no puede tocar su `robots.txt`, escríbanos a **strata@luiscalvoruiz.es**, o
    [abra una incidencia en este repositorio](https://github.com/strataobservatory/strataobservatory/issues/new),
    diciendo qué servidor o dirección. **Lo cumplimos como mucho cinco días después de
