@@ -77,8 +77,8 @@ could tell why the record changed.
 
 Strata Observatory is an independent project, maintained by Luis Calvo Ruiz
 ([@luiscalvoruiz](https://github.com/luiscalvoruiz)). This GitHub account is the observatory's
-automated account: what it publishes is produced by the daily pass, and he answers for it and
-reads its issues.
+automated account: what it publishes is done automatically by the observatory —the daily pass
+and the publication of each version of the method—, and he answers for it and reads its issues.
 
 **How we observe, in full:** the method, every closed version of it, at
 https://github.com/strataobservatory/strata-metodo
@@ -152,8 +152,8 @@ podría saber por qué cambió el registro.
 
 **Quiénes somos.** Strata Observatory es un proyecto independiente, mantenido por Luis Calvo
 Ruiz ([@luiscalvoruiz](https://github.com/luiscalvoruiz)). Esta cuenta de GitHub es la cuenta
-automática del observatorio: lo que publica lo produce la pasada diaria, y él responde de ella y
-lee sus incidencias.
+automática del observatorio: lo que publica lo hace el observatorio de forma automática —la pasada
+diaria y la publicación de cada versión del método—, y él responde de ella y lee sus incidencias.
 
 **Cómo observamos, entero:** el método, con todas sus versiones cerradas, en
 https://github.com/strataobservatory/strata-metodo
