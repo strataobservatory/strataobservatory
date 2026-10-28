@@ -61,11 +61,17 @@ objects by their owner, so we cannot know that a card in another directory is yo
 request", without the address or who asked— and from then on it is only counted. What was
 recorded before stays as it was: no sealed day is rewritten.
 
-**Coming back.** When we confirm that an address has been stopped, our answer carries a
-one-time code. We keep only its fingerprint, never the code, and never who asked. If you
-want us to observe that address again, send us the code through the same channel you used
-to ask: without it, leaving is permanent, because otherwise anyone could reopen someone
-else's address. On coming back the record keeps its identifier —nothing died, and nothing
+**Coming back.** If you asked by email, our answer confirming that the address has been
+stopped carries a one-time code. We keep only its fingerprint, never the code, and never
+who asked: we keep only how the request reached us (email, issue or other). If you want us
+to observe that address again, send us the code by email:
+without it, leaving is permanent, because otherwise anyone could reopen someone else's address. **We never write
+a code anywhere public.** If you asked through an issue, we stop the address just the same
+and within the same five days, but without a code: that exit is permanent, and our answer
+in the issue says so and why. If you may want to come back, ask by email. We do not send a
+code to an email address later, because anyone could write quoting the issue before the
+person who opened it; and asking again for an address already stopped does not give a new
+code, for the same reason. On coming back the record keeps its identifier —nothing died, and nothing
 is born again— and the days it was stopped stay outside every rate. If you stopped us with
 your own `robots.txt`, you need no code: change it, and we read it again on the next pass.
 
@@ -137,11 +143,17 @@ propietario, así que no podemos saber que una ficha en otro directorio es suya.
 petición», sin la dirección ni quién lo pidió— y desde entonces sólo se cuenta. Lo
 registrado antes se queda como estaba: ningún día sellado se reescribe.
 
-**Volver.** Cuando le confirmamos que hemos parado una dirección, la contestación lleva un
-código de un solo uso. Guardamos sólo su huella, nunca el código, y nunca quién lo pidió. Si
-quiere que volvamos a observar esa dirección, mándenos el código por el mismo canal por el
-que lo pidió: sin él, la salida es permanente, porque si no cualquiera podría reabrir la
-dirección de otro. Al volver, el registro conserva su identificador —nada murió, y nada
+**Volver.** Si nos lo pidió por correo, la contestación que le confirma que hemos parado la
+dirección lleva un código de un solo uso. Guardamos sólo su huella, nunca el código, y nunca
+quién lo pidió: sólo por dónde nos llegó la petición (correo, incidencia u otra vía). Si
+quiere que volvamos a observar esa dirección, mándenos el código por correo:
+sin él, la salida es permanente, porque si no cualquiera podría reabrir la dirección de otro. **Nunca
+escribimos un código en un sitio público.** Si lo pidió con una incidencia, paramos la
+dirección igual y en los mismos cinco días, pero sin código: esa salida es permanente, y la
+contestación en la incidencia lo dice y dice por qué. Si quiere poder volver, pídalo por
+correo. No mandamos el código a un correo después, porque cualquiera podría escribir citando
+la incidencia antes que quien la abrió; y pedir otra vez la salida de una dirección ya
+parada no da un código nuevo, por lo mismo. Al volver, el registro conserva su identificador —nada murió, y nada
 nace otra vez— y los días que estuvo parado quedan fuera de toda tasa. Si nos paró con su
 propio `robots.txt`, no necesita código: cámbielo, y lo volvemos a leer en la pasada
 siguiente.
